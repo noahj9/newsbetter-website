@@ -35,7 +35,7 @@ export default function Home() {
 
       <section id="about" className="p-8 w-full mt-20 justify-center text-justify flex text-black">
         <div className="w-1/2 mr-20 flex flex-col justify-center">
-          <h1 className="text-4xl font-bold">AI Enabled Newsletter Discovery and Analytics.</h1>
+          <h1 className="text-4xl font-bold">AI Enabled. <br></br> Newsletter Discovery and Analytics.</h1>
           <p className="mt-4 text-lg w-3/4 text-justify">
           Optimize your reading time and take your learning to the next level. Understand more about your current interests and related topics that others are reading about. NewsBetter innately changes the way you read your newsletters. 
           </p>
@@ -79,7 +79,7 @@ export default function Home() {
               </div>
             </div>
             <p className="text-lg text-black">
-              Hey, I'm Kaden. I am a current HBA student with a background in medical sciences. I'm passionate about entrepreneurship, and previously worked in consulting.
+              Hey, I'm Kaden. I am a current HBA student at the Ivey Business School with a background in medical sciences. I'm passionate about entrepreneurship, and previously worked in consulting.
             </p>
             <a href="https://www.linkedin.com/in/kadensg/" className="text-blue-500 hover:underline">LinkedIn Profile</a>
           </div>
